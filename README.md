@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hiya!
+![](https://github.com/erinshien/erinshien/blob/main/wave.gif)
 
 <!--
 **erinshien/erinshien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
