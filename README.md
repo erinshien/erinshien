@@ -1,8 +1,8 @@
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhxazgzY2Nyc2lnNG1mZzJ0c2IydTRpc3NobWdhanJ6dWc0OHk2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif" width="200" alt="image"/>
 <h3>✨ Hiya! My name is Erin ✨</h3>
 <p>🎨 I'm an ex-art director embarking upon a new adventure in software development</p>
-<p>💻 I'm about to begin the School of Code full-stack bootcamp</p>
-<p>📚 I'm currently learning JavaScript and dabbling in Python</p>
+<p>💻 I am currently part of the School of Code full-stack bootcamp</p>
+<p>📚 I'm learning JavaScript and dabbling in Python</p>
 <p>🌙 In my spare time you will find me reading, crafting, and baking</p>
 <div id="badges" align="right">
   <a href="https://www.linkedin.com/in/erin-smith-b39a022a8/">
