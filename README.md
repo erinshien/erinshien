@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV0Z3NxbjdqcDJmc3MwYWVyc2s3dHV2MHJqancwaTJwbzk4N2theiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV0Z3NxbjdqcDJmc3MwYWVyc2s3dHV2MHJqancwaTJwbzk4N2theiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="250"/>
   <div id="badges"> 
     <a href="https://www.erinshiensmith.me/" target="_blank"><img src="https://img.shields.io/badge/-my_Portfolio-0A3078?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/erin-shien-smith/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -12,7 +12,7 @@
   <p>I'm an aspiring developer and designer, and recently completed a Full Stack Developer bootcamp at the School of Code. Originally from Sydney, Australia I moved to the UK to work as an art director for film and television. I have transitioned to a tech career in order to make a difference through my work, designing user experiences to solve problems and impact lives for the better.</p>
 </div>
 
-<h1 align="center">💻 My Projects 💻</h1>
+<h1 align="center">My Projects</h1>
 
 <div align="center">
 
@@ -27,7 +27,7 @@
 
 </div>
 
-<h1 align="center">🛠️ My Toolkit 🛠️</h1>
+<h1 align="center">My Toolkit</h1>
 
 <div align="center">
 
