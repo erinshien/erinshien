@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV0Z3NxbjdqcDJmc3MwYWVyc2s3dHV2MHJqancwaTJwbzk4N2theiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="150"/>
-  <h2>✨ Hiya! My name is Erin ✨</h3>
-  <div align="center"> 
+  <div id="badges"> 
     <a href="https://www.erinshiensmith.me/" target="_blank"><img src="https://img.shields.io/badge/-my_Portfolio-0A3078?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/erin-shien-smith/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://medium.com/@erinshiensmith/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
    </div>
+    <h2>✨ Hiya! My name is Erin ✨</h3>
 </div>
 
 <div id="about">
