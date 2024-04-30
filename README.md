@@ -12,7 +12,7 @@
   <p>I'm an aspiring developer and designer, and recently completed a Full Stack Developer bootcamp at the School of Code. Originally from Sydney, Australia I moved to the UK to work as an art director for film and television. I have transitioned to a tech career in order to make a difference through my work, designing user experiences to solve problems and impact lives for the better.</p>
 </div>
 
-<h1 align="center">🛠️ My Projects 🛠️</h1>
+<h1 align="center">💻 My Projects 💻</h1>
 
 <div align="center">
 
@@ -24,6 +24,28 @@
 | Fact or Fib | True or false trivia game |        |           |            |
 | Coco Capybara | Tamagotchi-inspired virtual pet |        |           |            |
 | Weather App | A simple weather app |        |           |            |
+
+</div>
+
+<h1 align="center">🛠️ My Toolkit 🛠️</h1>
+
+<div align="center">
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJkeXN0eG00ZGxhOG8zaTdvdGYyaDgybTA1Yzl0cWN5eGhza3JkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPnfM9bmR0ZaQo3qtK/giphy.gif" width="250"/>
+  
+| Frameworks, Libraries & Build Tools  |
+|---|
+|  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" >   <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"> |
+| **Programming Languages** |
+| <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> |
+| **Styling & Design**  |
+| <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Sketch-FFC24D?style=for-the-badge&logo=sketch&logoColor=black"> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"> |
+| **APIs & Databases**  |
+| <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"> |
+| **Testing**  |
+| <img src="https://img.shields.io/badge/-Vitest-77B254?style=for-the-badge&logo=vitest&logoColor=white"> <img src="https://img.shields.io/badge/-Playwright-EA5230?style=for-the-badge&logo=playwright&logoColor=white"> |
+| **Version Control**  |
+| <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> |
 
 </div>
 
