@@ -5,14 +5,27 @@
     <a href="https://www.linkedin.com/in/erin-shien-smith/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://medium.com/@erinshiensmith/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
    </div>
-    <h2>✨ Hiya! My name is Erin ✨</h3>
+    <h1>✨ Hiya! My name is Erin ✨</h1>
 </div>
 
 <div id="about">
   <p>I'm an aspiring developer and designer, and recently completed a Full Stack Developer bootcamp at the School of Code. Originally from Sydney, Australia I moved to the UK to work as an art director for film and television. I have transitioned to a tech career in order to make a difference through my work, designing user experiences to solve problems and impact lives for the better.</p>
 </div>
 
+<h1 align="center">🛠️ My Projects 🛠️</h1>
 
+<div align="center">
+
+| Project | Description | Github | Live Site | Tech Stack |
+|---------|-------------|--------|-----------|------------|
+| Birmingham Biz | School of Code Bootcamp final project|        |           |            |
+| The WatchList | App for creating shared watchlists |        |           |            |
+| ChatterBot | AI chatbot |        |           |            |
+| Fact or Fib | True or false trivia game |        |           |            |
+| Coco Capybara | Tamagotchi-inspired virtual pet |        |           |            |
+| Weather App | A simple weather app |        |           |            |
+
+</div>
 
 <!--
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhxazgzY2Nyc2lnNG1mZzJ0c2IydTRpc3NobWdhanJ6dWc0OHk2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif" width="200" alt="image"/>
