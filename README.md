@@ -34,7 +34,7 @@
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJkeXN0eG00ZGxhOG8zaTdvdGYyaDgybTA1Yzl0cWN5eGhza3JkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPnfM9bmR0ZaQo3qtK/giphy.gif" width="250"/>
   
 | Frameworks, Libraries & Build Tools  |
-|---|
+|:---|
 |  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" >   <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"> |
 | **Programming Languages** |
 | <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> |
