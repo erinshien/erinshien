@@ -20,10 +20,10 @@
 |---------|-------------|--------|-----------|------------|
 | Birmingham Biz | School of Code Bootcamp final project|        |           |            |
 | The WatchList | App for creating shared watchlists |        |           |            |
-| ChatterBot | AI chatbot |        |           |            |
-| Fact or Fib | True or false trivia game |        |           |            |
-| Coco Capybara | Tamagotchi-inspired virtual pet |        |           |            |
-| Weather App | A simple weather app |        |           |            |
+| ChatterBot | AI chatbot | [GitHub](https://github.com/erinshien/chatterbot)       |           |            |
+| Fact or Fib | True or false trivia game | [GitHub](https://github.com/erinshien/triviagame) | [Live Site](https://erinshien.github.io/triviagame/) |            |
+| Coco Capybara | Tamagotchi-inspired virtual pet | [GitHub](https://github.com/erinshien/cococapybara) | [Live Site](https://erinshien.github.io/cococapybara/) |            |
+| Weather App | A simple weather app | [GitHub](https://github.com/erinshien/weatherapp) | [Live Site](https://erinshien.github.io/weatherapp/) |            |
 
 </div>
 
