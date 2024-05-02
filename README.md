@@ -31,7 +31,7 @@
 
 <div align="left">
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJkeXN0eG00ZGxhOG8zaTdvdGYyaDgybTA1Yzl0cWN5eGhza3JkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPnfM9bmR0ZaQo3qtK/giphy.gif" width="250"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJkeXN0eG00ZGxhOG8zaTdvdGYyaDgybTA1Yzl0cWN5eGhza3JkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPnfM9bmR0ZaQo3qtK/giphy.gif" width="325"/>
   
 | Frameworks, Libraries & Build Tools  |
 |:---|
