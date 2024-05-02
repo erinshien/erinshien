@@ -21,7 +21,7 @@
 | Birmingham Biz | School of Code Bootcamp final project|        |           |            |
 | The WatchList | App for creating shared watchlists |        |           | React, Next.js, TypeScript |
 | ChatterBot | AI chatbot created using OpenAI's API | [GitHub](https://github.com/erinshien/chatterbot)       |           | React, Next.js, JavaScript |
-| Fact or Fib | True or false trivia game using the Open Trivia API | [GitHub](https://github.com/erinshien/factorfib) | [Live Site](https://erinshien.github.io/triviagame/) | HTML, CSS, Vanilla JavaScript |
+| Fact or Fib | True or false trivia game using the Open Trivia API | [GitHub](https://github.com/erinshien/factorfib) | [Live Site](https://erinshien.github.io/factorfib/) | HTML, CSS, Vanilla JavaScript |
 | Coco Capybara | Tamagotchi-inspired virtual pet | [GitHub](https://github.com/erinshien/cococapybara) | [Live Site](https://erinshien.github.io/cococapybara/) | HTML, CSS, Vanilla JavaScript |
 | Weather App | A simple weather app using Open-Meteo's API | [GitHub](https://github.com/erinshien/weatherapp) | [Live Site](https://erinshien.github.io/weatherapp/) | HTML, CSS, Vanilla JavaScript |
 
