@@ -21,7 +21,7 @@
 
 | Project | Description | Github | Live Site | Tech Stack |
 |---------|-------------|--------|-----------|------------|
-| Birmingham Biz | School of Code Bootcamp final project| [GitHub](https://github.com/SchoolOfCode/bc16-final-projects-codey-mccodeface) |           |            |
+| Birmingham Biz | School of Code Bootcamp final project| [GitHub](https://github.com/SchoolOfCode/bc16-final-projects-codey-mccodeface) |           | React, Next.js, JavaScript |
 | The WatchList | App for creating shared watchlists |        |           | React, Next.js, TypeScript |
 | ChatterBot | AI chatbot created using OpenAI's API | [GitHub](https://github.com/erinshien/chatterbot) |           | React, Next.js, JavaScript |
 | Fact or Fib | True or false trivia game using the Open Trivia API | [GitHub](https://github.com/erinshien/factorfib) | [Live Site](https://erinshien.github.io/factorfib/) | HTML, CSS, Vanilla JavaScript |
