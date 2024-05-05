@@ -11,7 +11,8 @@
 </div>
 
 <div id="about">
-  <p>I'm an aspiring developer and designer, and recently completed a Full Stack Developer bootcamp at the School of Code. Originally from Sydney, Australia I moved to the UK to work as an art director for film and television. I have transitioned to a tech career in order to make a difference through my work, designing user experiences to solve problems and impact lives for the better.</p>
+  <p>I'm an aspiring developer and designer, and recently completed a Full Stack Developer bootcamp at the School of Code. </p>
+   <p> Originally from Sydney, Australia I moved to the UK to work as an art director for film and television. I have transitioned to a tech career in order to make a difference through my work, designing user experiences to solve problems and impact lives for the better.</p>
   <p>When I'm not designing and building software, you'll often find me making miniature models, silversmithing, and baking tasty treats!</p>
 </div>
 
