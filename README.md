@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/erin-shien-smith/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://medium.com/@erinshiensmith/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
    </div>
-    <h1>✨ Hiya! My name is Erin ✨</h1>
+    <h1>✨ Hiya, my name is Erin! ✨</h1>
 </div>
 
 <div id="about">
@@ -24,7 +24,7 @@
 |---------|-------------|--------|-----------|------------|
 | Birmingham Biz | School of Code Bootcamp final project| [GitHub](https://github.com/SchoolOfCode/bc16-final-projects-codey-mccodeface) |           | React, Next.js, JavaScript |
 | The WatchList | App for creating shared watchlists |        |           | React, Next.js, TypeScript |
-| ChatterBot | AI chatbot created using OpenAI's API | [GitHub](https://github.com/erinshien/chatterbot) |           | React, Next.js, JavaScript |
+| ChatterBot | AI chatbot created using OpenAI's API | [GitHub](https://github.com/erinshien/chatterbot) | [Live Site](https://chatterbot-rho.vercel.app/) | React, Next.js, JavaScript |
 | Fact or Fib | True or false trivia game using the Open Trivia API | [GitHub](https://github.com/erinshien/factorfib) | [Live Site](https://erinshien.github.io/factorfib/) | HTML, CSS, Vanilla JavaScript |
 | Coco Capybara | Tamagotchi-inspired virtual pet | [GitHub](https://github.com/erinshien/cococapybara) | [Live Site](https://erinshien.github.io/cococapybara/) | HTML, CSS, Vanilla JavaScript |
 | Weather App | A simple weather app using Open-Meteo's API | [GitHub](https://github.com/erinshien/weatherapp) | [Live Site](https://erinshien.github.io/weatherapp/) | HTML, CSS, Vanilla JavaScript |
@@ -56,26 +56,6 @@
 <h1></h1>
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=erinshien&theme=dracula">
-</div>
--->
-
-<!--
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhxazgzY2Nyc2lnNG1mZzJ0c2IydTRpc3NobWdhanJ6dWc0OHk2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif" width="200" alt="image"/>
-<h3>✨ Hiya! My name is Erin ✨</h3>
-<p>🎨 I'm an ex-art director embarking upon a new adventure in software development</p>
-<p>💻 I am currently part of the School of Code full-stack bootcamp</p>
-<p>📚 I'm learning JavaScript and dabbling in Python</p>
-<p>🌙 In my spare time you will find me reading, crafting, and baking</p>
-<div id="badges" align="right">
-  <a href="https://www.linkedin.com/in/erin-smith-b39a022a8/">
-    <img height="16" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <a href="https://www.instagram.com/codingwitherin/">
-    <img height="16" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
-  </a>
-  <a href="https://twitter.com/codingwitherin"?>
-    <img height="16" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
-  </a>
 </div>
 -->
 
