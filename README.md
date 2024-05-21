@@ -22,7 +22,7 @@
 
 | Project | Description | Github | Live | Tech Stack |
 |---------|-------------|--------|-----------|------------|
-| Birmingham Biz | School of Code Bootcamp final project| [GitHub](https://github.com/gabriellemia/birmingham-biz) |           | React, Next.js, JavaScript, CSS, Strapi, Railway, Cloudinary |
+| Birmingham Biz | School of Code Bootcamp final project| [GitHub](https://github.com/gabriellemia/birmingham-biz) |   [Live](https://birmingham-biz-kappa.vercel.app/)        | React, Next.js, JavaScript, CSS, Strapi, Railway, Cloudinary |
 | The WatchList | App for creating shared watchlists |        |           | React, Next.js, TypeScript, CSS |
 | ChatterBot | AI chatbot created using OpenAI's API | [GitHub](https://github.com/erinshien/chatterbot) | [Live](https://chatterbot-rho.vercel.app/) | React, Next.js, JavaScript, CSS |
 | Fact or Fib | True or false trivia game using the Open Trivia API | [GitHub](https://github.com/erinshien/factorfib) | [Live](https://erinshien.github.io/factorfib/) | HTML, CSS, Vanilla JavaScript |
