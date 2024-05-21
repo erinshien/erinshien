@@ -20,15 +20,15 @@
 
 <div align="center">
 
-| Project | Description | Github | Live Site | Tech Stack |
+| Project | Description | Github | Live | Tech Stack |
 |---------|-------------|--------|-----------|------------|
-| Birmingham Biz | School of Code Bootcamp final project| [GitHub](https://github.com/gabriellemia/birmingham-biz) |           | React, Next.js, JavaScript |
-| The WatchList | App for creating shared watchlists |        |           | React, Next.js, TypeScript |
-| ChatterBot | AI chatbot created using OpenAI's API | [GitHub](https://github.com/erinshien/chatterbot) | [Live Site](https://chatterbot-rho.vercel.app/) | React, Next.js, JavaScript |
-| Fact or Fib | True or false trivia game using the Open Trivia API | [GitHub](https://github.com/erinshien/factorfib) | [Live Site](https://erinshien.github.io/factorfib/) | HTML, CSS, Vanilla JavaScript |
-| Coco Capybara | Tamagotchi-inspired virtual pet | [GitHub](https://github.com/erinshien/cococapybara) | [Live Site](https://erinshien.github.io/cococapybara/) | HTML, CSS, Vanilla JavaScript |
-| Weather App | A simple weather app using Open-Meteo's API | [GitHub](https://github.com/erinshien/weatherapp) | [Live Site](https://erinshien.github.io/weatherapp/) | HTML, CSS, Vanilla JavaScript |
-| Airbnb Clone <br> (Mobile Only) | A static Airbnb mobile site clone | [GitHub](https://github.com/erinshien/airbnbclone) | [Live Site](https://erinshien.github.io/airbnbclone/) | HTML, CSS |
+| Birmingham Biz | School of Code Bootcamp final project| [GitHub](https://github.com/gabriellemia/birmingham-biz) |           | React, Next.js, JavaScript, CSS, Strapi, Railway, Cloudinary |
+| The WatchList | App for creating shared watchlists |        |           | React, Next.js, TypeScript, CSS |
+| ChatterBot | AI chatbot created using OpenAI's API | [GitHub](https://github.com/erinshien/chatterbot) | [Live](https://chatterbot-rho.vercel.app/) | React, Next.js, JavaScript, CSS |
+| Fact or Fib | True or false trivia game using the Open Trivia API | [GitHub](https://github.com/erinshien/factorfib) | [Live](https://erinshien.github.io/factorfib/) | HTML, CSS, Vanilla JavaScript |
+| Coco Capybara | Tamagotchi-inspired virtual pet | [GitHub](https://github.com/erinshien/cococapybara) | [Live](https://erinshien.github.io/cococapybara/) | HTML, CSS, Vanilla JavaScript |
+| Weather App | A simple weather app using Open-Meteo's API | [GitHub](https://github.com/erinshien/weatherapp) | [Live](https://erinshien.github.io/weatherapp/) | HTML, CSS, Vanilla JavaScript |
+| Airbnb Clone <br> (Mobile Only) | A static Airbnb mobile site clone | [GitHub](https://github.com/erinshien/airbnbclone) | [Live](https://erinshien.github.io/airbnbclone/) | HTML, CSS |
 
 </div>
 
