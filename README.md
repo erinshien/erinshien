@@ -20,7 +20,7 @@
 
 <div align="center">
 
-| Project | Description | Github | Live | Tech Stack |
+| Project | Description | GitHub | Live | Tech Stack |
 |---------|-------------|--------|-----------|------------|
 | Birmingham Biz | School of Code Bootcamp final project| [GitHub](https://github.com/gabriellemia/birmingham-biz) |   [Live](https://birmingham-biz-kappa.vercel.app/)        | React, Next.js, JavaScript, CSS, Strapi, Railway, Cloudinary |
 | The WatchList | App for creating shared watchlists |        |           | React, Next.js, TypeScript, CSS |
